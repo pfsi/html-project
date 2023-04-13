@@ -14,10 +14,13 @@ font-size: 18px;
     font-size: 24px;
     color: #F9FAF8;
 }
-
+.images {
+font-weight: 800;
+text-align: center;
+}
 .quote {
 background-color: #E5E7EB;
-
+font-size: 36px;
 }
 
 .bottom {
@@ -25,4 +28,10 @@ background-color: #E5E7EB;
 background-color: #3882F6;
 
 
+}
+
+.footer {
+    color: #E5E7EB; 
+text-align: center;
+    background-color: #1f2937;
 }
