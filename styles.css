@@ -1,10 +1,15 @@
 .hero   {
 background-color: #1f2937;
 
-font-size: 24px;
+font-size: 18px;
 
 }
-.hero-main {
+.heromain {
 
     font-size: 48px;
+    color: #F9FAF8;
+}
+
+.herologo {
+    font-size: 24px;
 }
