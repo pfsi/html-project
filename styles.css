@@ -1,6 +1,6 @@
 .hero   {
 background-color: #1f2937;
-
+color: #E5E7EB; 
 font-size: 18px;
 
 }
@@ -12,4 +12,5 @@ font-size: 18px;
 
 .herologo {
     font-size: 24px;
+    color: #F9FAF8;
 }
