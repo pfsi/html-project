@@ -28,10 +28,15 @@ a {
 .images {
 font-weight: 800;
 text-align: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
 }
 .quote {
 background-color: #E5E7EB;
 font-size: 36px;
+color: #1f2937;
+
 }
 .quoter {
 
